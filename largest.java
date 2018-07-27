@@ -3,7 +3,6 @@ public class Demo
 public static void main(String  args[])
 {
 int x,y,z;
-System.out.println("enter three integers");
 Scanner sc=new Scanner(System.in);
 x=sc.nextInt();
 y=sc.nextInt();
