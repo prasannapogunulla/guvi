@@ -15,7 +15,7 @@ flag=flase;
 }
 else if(year%4==0)
 {
-flag=true
+flag=true;
 }
 else
 {
@@ -23,11 +23,11 @@ flag=false;
 }
 if(flag)
 {
-System.out.println("yes");
+System.out.println("no");
 }
 else
 {
-System.out.println("no");
+System.out.println("yes");
 }
 }
 }
