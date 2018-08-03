@@ -9,7 +9,7 @@ static int findSum(int N, int K)
 	static public void main(String[] args)
 	{
 		int N , K;
-		Scnner sc=new Scanner(System.in);
+		Scanner sc=new Scanner(System.in);
 		N=sc.nextInt();
 		K=sc.nextInt();
 		System.out.println("enter N and K values:");
