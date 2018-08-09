@@ -14,11 +14,11 @@ break;
 }
 if(!flag)
 {
-System.out.println("yes");
+System.out.println("No");
 }
 else
 {
-System.out.println("No");
+System.out.println("yes");
 }
 }
 }
