@@ -7,10 +7,10 @@ originalInteger=num;
 while(num!=0)
 {
 remainder=num%10;
-reversedInetger=reversedInetger*10+remainder;
+reversedInteger=reversedInteger*10+remainder;
 num/=10;
 }
-if(originalInetger==reversedInteger)
+if(originalInteger==reversedInteger)
 {
 System.out.println("yes");
 }
