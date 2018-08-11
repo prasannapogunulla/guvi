@@ -17,7 +17,7 @@ System.out.println("yes");
 }
 else
 {
-System.out.println("No);
+System.out.println("No");
 }
 }
 }
