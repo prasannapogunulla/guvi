@@ -2,7 +2,7 @@ class Prime
 {
 public static void main(String args[])
 {
-int low=8,high=17;
+int low=1,high=10;
 while(low<high)
 {
 boolean flag=false;
