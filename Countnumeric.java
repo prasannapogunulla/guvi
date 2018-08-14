@@ -14,7 +14,7 @@ char[] ch=x.toCharArray();
 int num=0;
 for(int i=0;i<x.length();i++)
 {
-if(Character.isDigit(ch[i])
+if(Character.isDigit(ch[i]))
 {
 num++;
 }
