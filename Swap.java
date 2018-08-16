@@ -11,6 +11,6 @@ System.out.println(y);
 temp=x;
 x=y;
 y=temp;
-System.out.println(x);
+System.out.println(y);
 }
 }
