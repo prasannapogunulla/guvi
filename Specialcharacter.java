@@ -7,7 +7,7 @@ import java.io.IOException;
 class Specialcharacter
 {
 public static String password="";
-public static final String FINAL_CHAR_REGEX="[!@#$%^&*()[\\\\]|;',./{}\\\\\\\\:\\\"<>?]";
+public static final String FINAL_CHAR_REGEX="[!@#$%^&*()_[\\\\]|;',./{}\\\\\\\\:\\\"<>?]";
 public static void main(String args[])throws IOException
 {
 BufferedReader dataIn=new BufferedReader(new InputStreamReader(System.in));
