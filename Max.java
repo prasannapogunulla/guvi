@@ -5,7 +5,7 @@ public static void main(String args[])
 {
 int n,max;
 Scanner s=new Scanner(System.in);
-n=s.nextInt();
+
 int a[]=new int[10];
 for(int i=0;i<10;i++)
 {
