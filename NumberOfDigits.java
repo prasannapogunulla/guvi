@@ -4,7 +4,7 @@ class NumberOfDigits
 public static void main(String args[])
 {
 int count=0,num;
-Scanner sc=new Scanner(System.in)
+Scanner sc=new Scanner(System.in);
 num=sc.nextInt();
 while(num!=0)
 {
