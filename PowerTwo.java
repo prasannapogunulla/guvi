@@ -20,6 +20,6 @@ int number=sc.nextInt();
 if(isPowerOfTwo(number))
 System.out.println("yes");
 else
-System.out.println("No");
+System.out.println("no");
 }
 }
