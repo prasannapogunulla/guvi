@@ -1,7 +1,7 @@
 import java.util.Scanner;
  class SumOfAllNum
 {
-	public static void main(String arg[])	
+	public static void main(String args[])	
 	{
                   int n,sum=0;
                   
