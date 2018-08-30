@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class ThreeNumbers.java
+class ThreeNumbers
 {
 public static void main(String args[])
 {
