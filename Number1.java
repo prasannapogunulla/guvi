@@ -1,5 +1,5 @@
  import java.util.Scanner;
- DigitsOpr
+class DigitsOpr
 {
 private int num;
 public void getNum(int x)
