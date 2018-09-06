@@ -18,6 +18,6 @@ class StringIsNumberOrNot
         if(numeric)
             System.out.println("yes");
         else
-            System.out.println("no");
+            System.out.println("No");
     }
 }
