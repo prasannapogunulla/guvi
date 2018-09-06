@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class MedianElement
+class Median
 {
 public static void main(String args[])
 {
