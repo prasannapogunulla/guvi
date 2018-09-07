@@ -1,4 +1,6 @@
 import java.util.Scanner;
+import java.lang.*;
+import java.io.*;
 class OddDigitsSpace
 {
 public static void main(String args[])
@@ -17,7 +19,7 @@ stack.push(r);
 }
 while(!stack.isEmpty())
 {
-System.out.println(stack.pop()+" ");
+System.out.print(stack.pop()+" ");
 }
 }
 }
